@@ -3,5 +3,5 @@
 <hr>
 </p>
 <p align="center">
-<img width=250 height=250 src="https://github.com/Paradocxie/Paradocxie/blob/main/Logo.png"> 
+<img width=250 height=250 src="https://github.com/Paradocxie/Paradocxie/blob/main/Logo 2.png"> 
 </p>
