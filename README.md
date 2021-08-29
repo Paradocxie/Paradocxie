@@ -3,5 +3,17 @@
 <hr>
 </p>
 <p align="center">
-<img width=250 height=250 src="https://github.com/Paradocxie/Paradocxie/blob/main/Logo 2.png"> 
 </p>
+
+<br>
+<br>
+
+<a href="https://github.com/paradocxie/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Paradocxie&show_icons=true&include_all_commits=true&theme=dracula" alt="Paradocxie's github stats" />
+</a>
+  
+<a href="https://github.com/paradocxie/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradocxie&layout=compact&theme=dracula" />
+</a>
+</a>
